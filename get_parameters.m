@@ -1,7 +1,7 @@
 %% system parameters
 
-kout=15;
-beta=0.18;
+kout=35;
+beta=0.22;
 %% PK paramaeters
  %Add drug PK parameters here
   
