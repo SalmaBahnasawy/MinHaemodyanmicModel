@@ -24,4 +24,4 @@ end
 
 %% system parameters
 
-KOUT=35/60;%min-1
+KOUT=35;%hr-1
