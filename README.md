@@ -10,6 +10,6 @@ This is the Matlab code to run the model and simulate the different haemodynamic
 
 ##How to use
 
--To run the model, run model_run.m file in MATLAB
--Change the initial conditons from get_initials.m file
--Add drug PK/PD parameter in get_parameters.m file
+- To run the model, run model_run.m file in MATLAB
+- Change the initial conditons from get_initials.m file
+- Add drug PK/PD parameter in get_parameters.m file
