@@ -1,7 +1,6 @@
 This is the Matlab code to run the model and simulate the different haemodynamic profiles.
 
 ##Content
-=======
 - model_run.m : model run file
 - model_ode.m : model structure file
 - get_initials.m: define the initial conditions
