@@ -1,9 +1,0 @@
-%% initial conditions
-HR0= 76;
-SV0=90;
-TPR0= 0.0198;
-MAP0=HR0*SV0*TPR0;
-SP_MAP0=135.432;
-
-A0 = [SV0 HR0 TPR0 0];
-
