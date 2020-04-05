@@ -20,4 +20,4 @@ end
 
 %% system parameters
 
-KOUT=80/60; %min-1
+KOUT=35/60; %min-1
