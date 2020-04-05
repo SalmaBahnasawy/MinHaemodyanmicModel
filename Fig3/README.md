@@ -1,0 +1,2 @@
+- This is the Matlab code to get figure 3 in the paper
+- To get the model run "RUN_ME.m" file
