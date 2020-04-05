@@ -7,7 +7,7 @@ This is the Matlab code to run the model and simulate the different haemodynamic
 - get_initials.m: define the initial conditions
 - get_parameters.m: define the system and drug parameters
 - vec.m: store the model output variables
-- get_profilesm: plot the haemodynamic profiles
+- get_profiles.m: plot the haemodynamic profiles
 
 ##How to use
 - To run the model, run model_run.m file in MATLAB
